@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently working on small projects to put what I have learned into practice. 
+- 🌱 I’m currently learning more about Javascript and React. 
+
 <!--
 **andresamarilis/andresamarilis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
