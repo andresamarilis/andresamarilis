@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a junior web developer in training. I'm also a University of Technology, Sydney graduate with knowledge in Internetworking and Applications and Software Development. I have a passion for IT, and on here, you will find some of my Web Development projects. 
+I'm a junior web developer in training. I'm also a University Graduate from the University of Technology, Sydney. I have studied in Internetworking and Applications and Software Development, and now in Web Development! I have a passion for IT, and on here, you will find some of my Web Development projects. 
 
 - 🔭 I’m currently working on small web development projects (HTML, CSS, JAVASCRIPT, APIs, REACT)
 - 🌱 I’m currently learning more about Javascript and React. 
